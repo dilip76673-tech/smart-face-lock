@@ -36,3 +36,17 @@ in real-world security systems.
 ---
 
 ## 📂 Project Structure
+
+smart-face-lock/ │── main.py              # Main execution file │── face_utils.py        # Face detection & recognition logic │── voice_alert.py       # Voice alert for access result │── authorized_face/     # Authorized user images │── trainer/             # Trained face data │── requirements.txt     # Required libraries │── README.md
+
+
+🚀 Features
+Real-time face detection
+Authorized vs Unauthorized user recognition
+Voice alert system
+Simple and efficient d
+
+
+👨‍💻 Author
+Dilip kumar
+B.Tech CSE Student
